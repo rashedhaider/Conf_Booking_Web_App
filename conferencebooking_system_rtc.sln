@@ -1,0 +1,69 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "conferencebooking_system_rtc", "conferencebooking_system_rtc\", "{5E9063B5-FD80-4C6F-A626-732B9DFAA426}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.7.2"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_53044"
+		Debug.AspNetCompiler.PhysicalPath = "conferencebooking_system_rtc\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_53044\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_53044"
+		Release.AspNetCompiler.PhysicalPath = "conferencebooking_system_rtc\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_53044\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "53044"
+		SlnRelativePath = "conferencebooking_system_rtc\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestGCC.UnitTests", "TestGCC.UnitTests\TestGCC.UnitTests.csproj", "{CC664D23-5FC8-4DD3-AE8F-FFEB072BEB87}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject1", "UnitTestProject1\UnitTestProject1.csproj", "{569AA382-F5D4-4C11-9FBC-CDFFA59128FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject2", "conferencebooking_system_rtc\UnitTestProject2\UnitTestProject2.csproj", "{20CA79D3-E0A2-47EB-AA3F-6F8DE62DE4A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NUnitTestProject1", "NUnitTestProject1\NUnitTestProject1.csproj", "{E3B4F5D7-4066-409D-8956-CADFD58A249C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E9063B5-FD80-4C6F-A626-732B9DFAA426}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E9063B5-FD80-4C6F-A626-732B9DFAA426}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E9063B5-FD80-4C6F-A626-732B9DFAA426}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E9063B5-FD80-4C6F-A626-732B9DFAA426}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{CC664D23-5FC8-4DD3-AE8F-FFEB072BEB87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC664D23-5FC8-4DD3-AE8F-FFEB072BEB87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC664D23-5FC8-4DD3-AE8F-FFEB072BEB87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC664D23-5FC8-4DD3-AE8F-FFEB072BEB87}.Release|Any CPU.Build.0 = Release|Any CPU
+		{569AA382-F5D4-4C11-9FBC-CDFFA59128FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{569AA382-F5D4-4C11-9FBC-CDFFA59128FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{569AA382-F5D4-4C11-9FBC-CDFFA59128FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{569AA382-F5D4-4C11-9FBC-CDFFA59128FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20CA79D3-E0A2-47EB-AA3F-6F8DE62DE4A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20CA79D3-E0A2-47EB-AA3F-6F8DE62DE4A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20CA79D3-E0A2-47EB-AA3F-6F8DE62DE4A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20CA79D3-E0A2-47EB-AA3F-6F8DE62DE4A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3B4F5D7-4066-409D-8956-CADFD58A249C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3B4F5D7-4066-409D-8956-CADFD58A249C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3B4F5D7-4066-409D-8956-CADFD58A249C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3B4F5D7-4066-409D-8956-CADFD58A249C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EDE50C17-4381-4DF6-922B-8D0CFE12EAE6}
+	EndGlobalSection
+EndGlobal
